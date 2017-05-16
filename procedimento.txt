@@ -1,0 +1,14 @@
+Paso 1:
+En el libro nos proporcionan las siguientes ecuaciones, aceleracion en terminos
+de las componentes x, y, z, las cuales describen ecuaciones diferenciales en
+donde en una componente se depende de las otras. Tambien se dan las ecuaciones
+que rigen el  movimiento en coordenadas polares, en donde se nos dan las
+aceleraciones en direccion radial R, y en la direccion z, tambien la ecuacion de
+la velocidad en direccion fi, en estas ultimas, todas las ecuaciones dependen de
+R, por lo cual, lo primero que se debe hacer es resovler la ecuacion diferencial
+de la aceleracion en R, ya con esto hecho se puede usar para las ecuaciones
+tanto en direccion z como en direccion fi.
+
+Bibliografia:
+1). Simulating the Aurora Borealis. The University of Calgary-Departemant of
+computer science- Technical Report 2000/655/07- march 2000.
